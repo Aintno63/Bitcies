@@ -1,5 +1,5 @@
 
-# Bitties
+# Bitcies
 Digital ends payment network
 <!DOCTYPE html>
 <head.
